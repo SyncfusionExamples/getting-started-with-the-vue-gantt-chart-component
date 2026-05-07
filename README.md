@@ -1,20 +1,43 @@
-# Getting Started with the Vue Gantt Chart Component
 
-A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the Syncfusion Gantt Chart. This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
+# Vue Gantt Chart Component Example
 
-Refer to the following documentation for the Syncfusion Vue Gantt Chart component:  
-https://ej2.syncfusion.com/vue/documentation/gantt/getting-started-vue 
+## Repository Description
+This repository provides a Vue 3 application example demonstrating how to integrate the Syncfusion Gantt Chart component for visualizing hierarchical task data and managing project timelines.
 
-Check out this online example of the Syncfusion Vue Gantt Chart component:  
-https://ej2.syncfusion.com/vue/demos/#/material/gantt/default.html  
+## Overview
 
-Refer to the following documentation for the feature modules in the Syncfusion Vue Gantt Chart component:  
-https://ej2.syncfusion.com/vue/documentation/gantt/module  
+This sample project shows how to use the `@syncfusion/ej2-vue-gantt` package to render a Gantt chart in a Vue 3 application. The app loads hierarchical task data from a local data source and displays it with configurable task fields, dependencies, and timeline settings.
 
-## Project prerequisites
+## Features
 
-Make sure that you have the latest versions of Vue, Node, Vue Class Component, and Visual Studio Code in your machine before starting to work on this project.
+- Vue 3 integration with Syncfusion Gantt chart
+- Hierarchical task structure with subtasks
+- Task dependencies and progress tracking
+- Custom column configuration and timeline view
+- Support for task indicators and relationships
 
-### How to run this application?
+## Prerequisites
 
-To run this application, you need to clone the `getting-started-with-the-vue-gantt-chart-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm run serve` command.
+- Node.js (LTS version recommended)
+- npm
+
+## Installation
+
+```bash
+npm install
+```
+
+## Usage
+
+```bash
+npm run serve
+```
+
+Then open the local URL shown in the terminal, usually `http://localhost:8080`.
+
+## Notes
+
+- The app imports Syncfusion Material CSS from CDN in `src/App.vue`.
+- `src/main.js` includes a Syncfusion license registration call.
+- `src/App.vue` maps task fields such as `TaskID`, `TaskName`, `StartDate`, `EndDate`, `Duration`, `Progress`, `subtasks`, and `Predecessor`.
+- Sample data contains predecessor values that may be invalid (`28ss`, `36ss`). Adjust them before using the dataset in production.
