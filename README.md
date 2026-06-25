@@ -1,6 +1,6 @@
 # Getting Started with the Vue Gantt Chart Component
 
-A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the Vue Gantt Chart. This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
+A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the [Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart). This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
 
 ## Project prerequisites
 
