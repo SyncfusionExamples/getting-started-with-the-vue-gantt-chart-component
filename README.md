@@ -1,15 +1,6 @@
 # Getting Started with the Vue Gantt Chart Component
 
-A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the Syncfusion [Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples). This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
-
-Refer to the following documentation for the Syncfusion Vue Gantt Chart component:  
-https://ej2.syncfusion.com/vue/documentation/gantt/getting-started-vue 
-
-Check out this online example of the Syncfusion Vue Gantt Chart component:  
-https://ej2.syncfusion.com/vue/demos/#/material/gantt/default.html  
-
-Refer to the following documentation for the feature modules in the Syncfusion Vue Gantt Chart component:  
-https://ej2.syncfusion.com/vue/documentation/gantt/module  
+A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the [Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples). This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
 
 ## Project prerequisites
 
