@@ -12,8 +12,8 @@ To run this application, you need to clone the `getting-started-with-the-vue-gan
 
 ## Related Links
 
-- [Explore Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart)
-- [Vue Gantt Chart Getting Started Guide](https://ej2.syncfusion.com/vue/documentation/gantt/getting-started-vue)
-- [Feature Modules](https://ej2.syncfusion.com/vue/documentation/gantt/module )
-- [Gantt API Documentation](https://ej2.syncfusion.com/react/documentation/api/gantt/)
-- [Vue Gantt Chart Live Demos and Examples](https://ej2.syncfusion.com/vue/demos/#/tailwind3/gantt/default.html)
+- [Explore Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
+- [Vue Gantt Chart Getting Started Guide](https://ej2.syncfusion.com/vue/documentation/gantt/getting-started-vue?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
+- [Feature Modules](https://ej2.syncfusion.com/vue/documentation/gantt/module?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
+- [Gantt API Documentation](https://ej2.syncfusion.com/react/documentation/api/gantt/index-default?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
+- [Vue Gantt Chart Live Demos and Examples](https://ej2.syncfusion.com/vue/demos/?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples#/bootstrap5/gantt/default.html)
