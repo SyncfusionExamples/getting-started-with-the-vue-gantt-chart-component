@@ -1,6 +1,6 @@
 # Getting Started with the Vue Gantt Chart Component
 
-A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the [Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples). This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
+A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the [Vue Gantt Chart](https://www.syncfusion.com/gantt-sdk/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples). This project contains simple code customization, as well as some important features like binding data, setting timeline views, and task dependencies.
 
 ## Project prerequisites
 
@@ -12,7 +12,7 @@ To run this application, you need to clone the `getting-started-with-the-vue-gan
 
 ## Related Links
 
-- [Explore Vue Gantt Chart](https://www.syncfusion.com/vue-components/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
+- [Explore Vue Gantt Chart](https://www.syncfusion.com/gantt-sdk/vue-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
 - [Vue Gantt Chart Getting Started Guide](https://ej2.syncfusion.com/vue/documentation/gantt/getting-started-vue?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
 - [Feature Modules](https://ej2.syncfusion.com/vue/documentation/gantt/module?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
 - [Gantt API Documentation](https://ej2.syncfusion.com/react/documentation/api/gantt/index-default?utm_source=github&utm_medium=listing&utm_campaign=vue-gantt-chart-github-samples)
